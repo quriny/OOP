@@ -1,0 +1,10 @@
+﻿  PracticalWorkOOP_3.cpp
+  Source.cpp
+C:\Users\aklik\source\repos\PracticalWorkOOP_3\PracticalWorkOOP_3\Source.cpp(26,31): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\aklik\source\repos\PracticalWorkOOP_3\PracticalWorkOOP_3\Source.cpp(50,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\aklik\source\repos\PracticalWorkOOP_3\PracticalWorkOOP_3\Source.cpp(53,42): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "double __cdecl getDistance(struct Point,struct Point)" (?getDistance@@YANUPoint@@0@Z) в функции "struct Point __cdecl getClosestPoint(struct Point *,int)" (?getClosestPoint@@YA?AUPoint@@PEAU1@H@Z).
+    Указание на символы, которые определены и могут подойти:
+      "public: double __cdecl Triangle::getDistance(struct Point,struct Point)" (?getDistance@Triangle@@QEAANUPoint@@0@Z)
+C:\Users\aklik\source\repos\PracticalWorkOOP_3\x64\Debug\PracticalWorkOOP_3.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

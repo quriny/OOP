@@ -1,0 +1,3 @@
+﻿  PracticalWorkOOP_4.cpp
+C:\Users\aklik\source\repos\PracticalWorkOOP_4\PracticalWorkOOP_4\Header.h(126): warning C4715: MaxHeap::contains: значение возвращается не при всех путях выполнения
+  PracticalWorkOOP_4.vcxproj -> C:\Users\aklik\source\repos\PracticalWorkOOP_4\x64\Debug\PracticalWorkOOP_4.exe
